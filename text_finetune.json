@@ -1,0 +1,6 @@
+[
+  {"text": "gpu kernel panic during training", "label": "ops"},
+  {"text": "model drift and retraining request", "label": "ops"},
+  {"text": "customer pricing update required", "label": "business"},
+  {"text": "new contract negotiation timeline", "label": "business"}
+]

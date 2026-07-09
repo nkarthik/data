@@ -1,0 +1,6 @@
+[
+  {"text": "system healthy and stable", "label": "ops"},
+  {"text": "server latency spike observed", "label": "ops"},
+  {"text": "meeting agenda and project plan", "label": "business"},
+  {"text": "budget review and quarterly goals", "label": "business"}
+]
