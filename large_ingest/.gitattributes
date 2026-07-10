@@ -158,3 +158,5 @@ large_features_10.parquet filter=lfs diff=lfs merge=lfs -text
 large_features_15.parquet filter=lfs diff=lfs merge=lfs -text
 large_features_47.parquet filter=lfs diff=lfs merge=lfs -text
 large_features_54.parquet filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
+.parquet filter=lfs diff=lfs merge=lfs -text
